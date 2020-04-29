@@ -19,6 +19,6 @@ library
   exposed-modules:     XMonad.Layout.MyMaximize
   -- other-modules:       
   other-extensions:    DeriveDataTypeable, FlexibleContexts, FlexibleInstances, MultiParamTypeClasses, TypeSynonymInstances
-  build-depends:       base >=4.7 && <4.8, xmonad >=0.11 && <0.12, xmonad-contrib >=0.11 && <0.12
+  build-depends:       base >=4.7 && <5.8, xmonad >=0.11 && <0.88, xmonad-contrib >=0.11 && <0.29
 --  hs-source-dirs:      XMonad
   default-language:    Haskell2010
